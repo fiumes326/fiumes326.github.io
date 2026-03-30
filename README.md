@@ -60,6 +60,22 @@ My personal website is where I showcase my projects, experience, and passion for
 
 ---
 
+### 🌐 pskrydercup.com
+**Web Application for Managing my Friends Yearly Golf Trip**
+
+Every year me and my college freidns take a golf trip to a destination place, it is hard to organize as we are 20+ people so this sites allows information to easily be releaded to the group. 
+I have also developed custom apps to help with our score keeping and team drafting that are hosted on this site. 
+
+**Tech Stack**
+- **React**
+- **Vite**
+- Modern and uniqe UI components, along with web application development
+
+🔗 **Website:** https://pskrydercup.com 
+🔗 **Repository:** _Add repo link here_
+
+---
+
 ## 🛠️ Tech I Enjoy Working With
 - JavaScript / TypeScript
 - React / React Native
